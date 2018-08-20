@@ -1,0 +1,216 @@
+Ocri System
+3 habitable bodies
+star diam: 0.848
+star mass: 2.124
+star grav: 2.946
+
+inner planets:
+  [Planet Name]
+  diam: 0.905
+  grav: 0.941
+  moons:
+    [Moon Name]
+    diam: 0.953
+    grav: 0.003
+
+
+  [Planet Name]
+  diam: 0.338
+  grav: 1.373
+  moons:
+    [Moon Name]
+    diam: 0.477
+    grav: 0.186
+
+
+  [Planet Name]
+  diam: 0.730
+  grav: 1.527
+  moons:
+    [Moon Name]
+    diam: 0.209
+    grav: 0.057
+
+
+outer planets:
+  Dreicon
+  diam: 2.190
+  grav: 6.515
+  moons:
+    [Moon Name]
+    diam: 0.100
+    grav: 1.981
+
+    [Moon Name]
+    diam: 0.380
+    grav: 0.017
+
+    [Moon Name]
+    diam: 0.231
+    grav: 0.047
+
+    [Moon Name]
+    diam: 0.113
+    grav: 1.711
+
+    [Moon Name]
+    diam: 0.350
+    grav: 0.510
+
+    Chi
+    HABITABLE (Peimein, sml)
+    diam: 0.100
+    grav: 1.509
+
+    [Moon Name]
+    diam: 0.100
+    grav: 8.692
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.346
+
+    [Moon Name]
+    diam: 0.118
+    grav: 0.180
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.952
+
+    [Moon Name]
+    diam: 0.351
+    grav: 0.020
+
+    [Moon Name]
+    diam: 0.668
+    grav: 0.006
+
+    [Moon Name]
+    diam: 0.682
+    grav: 0.005
+
+
+  [Planet Name]
+  diam: 2.185
+  grav: 8.429
+  moons:
+    [Moon Name]
+    diam: 1.209
+    grav: 0.038
+
+    [Moon Name]
+    diam: 0.769
+    grav: 0.213
+
+    [Moon Name]
+    diam: 0.131
+    grav: 2.802
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.130
+
+    [Moon Name]
+    diam: 0.216
+    grav: 0.054
+
+    [Moon Name]
+    diam: 0.247
+    grav: 0.282
+
+    [Moon Name]
+    diam: 0.100
+    grav: 9.138
+
+    [Moon Name]
+    diam: 0.851
+    grav: 0.003
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.165
+    grav: 1.170
+
+    [Moon Name]
+    diam: 0.794
+    grav: 0.049
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.348
+    grav: 0.378
+
+    [Moon Name]
+    diam: 0.100
+    grav: 8.035
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.312
+    grav: 0.026
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.175
+    grav: 1.749
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.233
+    grav: 0.215
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.067
+
+    [Moon Name]
+    diam: 0.272
+    grav: 0.572
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.305
+
+    [Moon Name]
+    diam: 0.434
+    grav: 0.013
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.262
+    grav: 1.905
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.516
+
+    [Moon Name]
+    diam: 0.350
+    grav: 0.020
+
+

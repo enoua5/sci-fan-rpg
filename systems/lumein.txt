@@ -1,0 +1,103 @@
+Lumein System
+1 habitable bodies
+star diam: 0.874
+star mass: 1.906
+star grav: 2.485
+
+inner planets:
+  [Planet Name]
+  diam: 0.600
+  grav: 1.216
+  moons:
+    [Moon Name]
+    diam: 0.355
+    grav: 0.152
+
+
+  [Planet Name]
+  diam: 1.314
+  grav: 0.365
+  moons:
+    [Moon Name]
+    diam: 0.238
+    grav: 0.044
+
+
+  [Planet Name]
+  diam: 0.986
+  grav: 0.259
+  moons:
+    [Moon Name]
+    diam: 0.640
+    grav: 0.318
+
+
+  [Planet Name]
+  diam: 0.827
+  grav: 0.967
+  moons:
+    [Moon Name]
+    diam: 0.537
+    grav: 0.009
+
+
+  [Planet Name]
+  diam: 1.229
+  grav: 0.428
+  moons:
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.278
+    grav: 0.032
+
+
+  [Planet Name]
+  diam: 0.636
+  grav: 1.975
+  moons:
+    [Moon Name]
+    diam: 0.415
+    grav: 0.211
+
+
+  [Planet Name]
+  diam: 0.583
+  grav: 1.474
+  moons:
+    [Moon Name]
+    diam: 0.100
+    grav: 1.688
+
+
+  [Planet Name]
+  diam: 0.980
+  grav: 0.408
+  moons:
+    [Moon Name]
+    diam: 0.695
+    grav: 0.010
+
+
+  Telein
+  HABITABLE (Alastra, med)
+  diam: 0.572
+  grav: 0.398
+  moons:
+    Zanyae
+    diam: 0.651
+    grav: 0.006
+
+
+  [Planet Name]
+  diam: 0.937
+  grav: 1.019
+  moons:
+    [Moon Name]
+    diam: 0.424
+    grav: 0.014
+
+
+outer planets:

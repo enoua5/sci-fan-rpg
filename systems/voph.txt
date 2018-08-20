@@ -1,0 +1,1291 @@
+Voph System
+15 habitable bodies
+star diam: 0.802
+star mass: 1.666
+star grav: 2.584
+
+inner planets:
+  Gailasil
+  HABITABLE (Gailaborne, med)
+  diam: 0.671
+  grav: 0.334
+  moons:
+    Shen
+    diam: 0.574
+    grav: 0.008
+
+
+outer planets:
+  [Planet Name]
+  diam: 5.081
+  grav: 2.510
+  moons:
+    [Moon Name]
+    diam: 0.463
+    grav: 0.215
+
+    [Moon Name]
+    diam: 0.792
+    grav: 0.004
+
+    [Moon Name]
+    diam: 0.166
+    grav: 0.091
+
+    [Moon Name]
+    diam: 0.100
+    grav: 14.125
+
+    [Moon Name]
+    diam: 0.433
+    grav: 0.138
+
+    [Moon Name]
+    diam: 0.309
+    grav: 0.343
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.484
+    grav: 0.011
+
+    [Moon Name]
+    diam: 0.100
+    grav: 4.368
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.126
+
+    [Moon Name]
+    diam: 0.712
+    grav: 0.023
+
+    [Moon Name]
+    diam: 0.193
+    grav: 0.067
+
+    [Moon Name]
+    diam: 0.312
+    grav: 0.026
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.162
+
+    [Moon Name]
+    diam: 0.584
+    grav: 0.026
+
+    [Moon Name]
+    diam: 0.263
+    grav: 1.683
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.240
+    grav: 0.409
+
+    [Moon Name]
+    diam: 0.327
+    grav: 0.042
+
+    [Moon Name]
+    diam: 0.286
+    grav: 0.538
+
+    [Moon Name]
+    diam: 0.600
+    grav: 0.146
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.238
+
+    [Moon Name]
+    diam: 1.332
+    grav: 0.063
+
+    [Moon Name]
+    diam: 0.589
+    grav: 0.066
+
+    [Moon Name]
+    diam: 0.491
+    grav: 0.490
+
+    [Moon Name]
+    diam: 0.236
+    grav: 1.818
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.048
+
+    [Moon Name]
+    diam: 0.882
+    grav: 0.009
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.925
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.833
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.179
+    grav: 1.857
+
+    [Moon Name]
+    diam: 0.272
+    grav: 0.034
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.153
+    grav: 1.001
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.602
+
+    [Moon Name]
+    diam: 0.343
+    grav: 0.021
+
+    [Moon Name]
+    diam: 0.396
+    grav: 0.016
+
+    [Moon Name]
+    diam: 0.464
+    grav: 0.039
+
+    [Moon Name]
+    diam: 0.614
+    grav: 0.217
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.414
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.213
+    grav: 0.055
+
+    [Moon Name]
+    diam: 0.256
+    grav: 0.619
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.991
+
+    [Moon Name]
+    diam: 0.454
+    grav: 0.267
+
+    [Moon Name]
+    diam: 0.100
+    grav: 8.241
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 4.440
+
+    [Moon Name]
+    diam: 0.460
+    grav: 0.112
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.100
+    grav: 1.182
+
+    [Moon Name]
+    diam: 0.568
+    grav: 0.008
+
+
+  Laevon
+  HABITABLE (Bleinail, low)
+  diam: 7.852
+  grav: 0.640
+  moons:
+    [Moon Name]
+    diam: 0.772
+    grav: 0.004
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.399
+
+    [Moon Name]
+    diam: 0.466
+    grav: 0.012
+
+    [Moon Name]
+    diam: 0.417
+    grav: 0.081
+
+    [Moon Name]
+    diam: 0.216
+    grav: 0.054
+
+    [Moon Name]
+    diam: 0.334
+    grav: 0.022
+
+    [Moon Name]
+    diam: 0.529
+    grav: 0.009
+
+    [Moon Name]
+    diam: 1.174
+    grav: 0.002
+
+    [Moon Name]
+    diam: 0.126
+    grav: 1.738
+
+    [Moon Name]
+    diam: 0.313
+    grav: 0.959
+
+    [Moon Name]
+    diam: 0.956
+    grav: 0.003
+
+    [Moon Name]
+    diam: 0.170
+    grav: 0.086
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.319
+    grav: 0.292
+
+    [Moon Name]
+    diam: 0.660
+    grav: 0.006
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.543
+
+    [Moon Name]
+    diam: 0.428
+    grav: 0.014
+
+    [Moon Name]
+    diam: 0.480
+    grav: 0.016
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.640
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.766
+
+    [Moon Name]
+    diam: 0.370
+    grav: 0.284
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.743
+
+    [Moon Name]
+    diam: 0.275
+    grav: 0.822
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.789
+    grav: 0.061
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.914
+    grav: 0.003
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.651
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.779
+
+    [Moon Name]
+    diam: 1.019
+    grav: 0.041
+
+    [Moon Name]
+    diam: 0.521
+    grav: 0.222
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.579
+
+    [Moon Name]
+    diam: 0.692
+    grav: 0.023
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.301
+
+    [Moon Name]
+    diam: 0.612
+    grav: 0.007
+
+    [Moon Name]
+    diam: 0.385
+    grav: 0.183
+
+    [Moon Name]
+    diam: 0.732
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.551
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 1.119
+    grav: 0.006
+
+    [Moon Name]
+    diam: 0.745
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.130
+    grav: 6.114
+
+    [Moon Name]
+    diam: 0.283
+    grav: 0.337
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.912
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.667
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.450
+    grav: 0.198
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.896
+
+    [Moon Name]
+    diam: 0.163
+    grav: 0.095
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.895
+
+    [Moon Name]
+    diam: 0.405
+    grav: 0.390
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.016
+
+    [Moon Name]
+    diam: 0.312
+    grav: 0.026
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.366
+
+    [Moon Name]
+    diam: 0.208
+    grav: 0.058
+
+    [Moon Name]
+    diam: 0.419
+    grav: 0.052
+
+    [Moon Name]
+    diam: 0.645
+    grav: 0.111
+
+    [Moon Name]
+    diam: 0.282
+    grav: 0.413
+
+    [Moon Name]
+    diam: 0.597
+    grav: 0.062
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.731
+
+    [Moon Name]
+    diam: 0.600
+    grav: 0.120
+
+    [Moon Name]
+    diam: 0.641
+    grav: 0.015
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.247
+
+    [Moon Name]
+    diam: 0.386
+    grav: 0.017
+
+    [Moon Name]
+    diam: 0.643
+    grav: 0.070
+
+    Meilcroes
+    HABITABLE (Bleinail, high)
+    diam: 0.517
+    grav: 0.323
+
+    [Moon Name]
+    diam: 0.680
+    grav: 0.091
+
+
+  [Planet Name]
+  diam: 3.402
+  grav: 6.339
+  moons:
+    [Moon Name]
+    diam: 0.399
+    grav: 0.161
+
+    [Moon Name]
+    diam: 0.926
+    grav: 0.051
+
+    [Moon Name]
+    diam: 0.293
+    grav: 0.612
+
+    [Moon Name]
+    diam: 0.100
+    grav: 4.072
+
+    [Moon Name]
+    diam: 0.251
+    grav: 0.558
+
+    [Moon Name]
+    diam: 0.516
+    grav: 0.105
+
+    [Moon Name]
+    diam: 0.597
+    grav: 0.007
+
+    [Moon Name]
+    diam: 0.385
+    grav: 0.017
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.594
+    grav: 0.007
+
+    [Moon Name]
+    diam: 0.499
+    grav: 0.010
+
+    [Moon Name]
+    diam: 0.126
+    grav: 0.157
+
+    [Moon Name]
+    diam: 0.409
+    grav: 0.209
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.337
+    grav: 0.155
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.033
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.344
+    grav: 0.526
+
+    [Moon Name]
+    diam: 0.556
+    grav: 0.211
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.325
+    grav: 0.304
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.452
+    grav: 0.012
+
+    [Moon Name]
+    diam: 0.683
+    grav: 0.147
+
+    [Moon Name]
+    diam: 0.159
+    grav: 0.100
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.267
+    grav: 0.123
+
+    [Moon Name]
+    diam: 0.291
+    grav: 0.030
+
+    [Moon Name]
+    diam: 0.424
+    grav: 0.014
+
+    [Moon Name]
+    diam: 0.290
+    grav: 0.030
+
+    [Moon Name]
+    diam: 0.552
+    grav: 0.041
+
+    [Moon Name]
+    diam: 0.733
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.164
+
+    [Moon Name]
+    diam: 0.393
+    grav: 0.016
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.265
+
+    [Moon Name]
+    diam: 1.302
+    grav: 0.001
+
+    [Moon Name]
+    diam: 0.343
+    grav: 0.021
+
+    [Moon Name]
+    diam: 0.370
+    grav: 0.502
+
+    [Moon Name]
+    diam: 0.680
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.127
+    grav: 3.889
+
+    [Moon Name]
+    diam: 0.266
+    grav: 0.035
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.858
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.100
+    grav: 2.336
+
+    [Moon Name]
+    diam: 0.721
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.543
+    grav: 0.017
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 8.679
+
+    [Moon Name]
+    diam: 0.482
+    grav: 0.076
+
+    [Moon Name]
+    diam: 1.079
+    grav: 0.002
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+
+  [Planet Name]
+  diam: 1.938
+  grav: 4.124
+  moons:
+    [Moon Name]
+    diam: 0.100
+    grav: 6.056
+
+    [Moon Name]
+    diam: 0.228
+    grav: 0.048
+
+    [Moon Name]
+    diam: 0.469
+    grav: 0.069
+
+    [Moon Name]
+    diam: 0.790
+    grav: 0.004
+
+
+  [Planet Name]
+  diam: 4.381
+  grav: 2.845
+  moons:
+    [Moon Name]
+    diam: 0.121
+    grav: 4.991
+
+    [Moon Name]
+    diam: 0.255
+    grav: 0.038
+
+    [Moon Name]
+    diam: 0.100
+    grav: 4.465
+
+    [Moon Name]
+    diam: 0.256
+    grav: 0.038
+
+    [Moon Name]
+    diam: 0.476
+    grav: 0.146
+
+    [Moon Name]
+    diam: 0.181
+    grav: 0.904
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.758
+
+    [Moon Name]
+    diam: 0.232
+    grav: 0.046
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.947
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.366
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.957
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.161
+    grav: 1.697
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.873
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.246
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.100
+    grav: 1.991
+
+    [Moon Name]
+    diam: 0.100
+    grav: 9.734
+
+    [Moon Name]
+    diam: 0.305
+    grav: 0.027
+
+    [Moon Name]
+    diam: 0.522
+    grav: 0.009
+
+    [Moon Name]
+    diam: 0.747
+    grav: 0.004
+
+    [Moon Name]
+    diam: 0.196
+    grav: 0.101
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.937
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.175
+
+    [Moon Name]
+    diam: 1.000
+    grav: 0.032
+
+    [Moon Name]
+    diam: 0.100
+    grav: 8.132
+
+    [Moon Name]
+    diam: 0.410
+    grav: 0.039
+
+    [Moon Name]
+    diam: 0.110
+    grav: 1.022
+
+    [Moon Name]
+    diam: 0.690
+    grav: 0.020
+
+    [Moon Name]
+    diam: 0.325
+    grav: 0.024
+
+    [Moon Name]
+    diam: 0.100
+    grav: 7.661
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.100
+    grav: 2.664
+
+    [Moon Name]
+    diam: 0.487
+    grav: 0.011
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.765
+    grav: 0.004
+
+    [Moon Name]
+    diam: 0.241
+    grav: 0.881
+
+    [Moon Name]
+    diam: 0.495
+    grav: 0.252
+
+    [Moon Name]
+    diam: 0.125
+    grav: 8.593
+
+    [Moon Name]
+    diam: 0.377
+    grav: 0.721
+
+    [Moon Name]
+    diam: 0.617
+    grav: 0.032
+
+    [Moon Name]
+    diam: 0.305
+    grav: 0.817
+
+    [Moon Name]
+    diam: 0.260
+    grav: 0.257
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.246
+    grav: 0.041
+
+
+  [Planet Name]
+  diam: 5.810
+  grav: 1.225
+  moons:
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.347
+    grav: 0.021
+
+    [Moon Name]
+    diam: 0.241
+    grav: 0.043
+
+    [Moon Name]
+    diam: 0.651
+    grav: 0.006
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 1.309
+    grav: 0.001
+
+    [Moon Name]
+    diam: 0.468
+    grav: 0.221
+
+    [Moon Name]
+    diam: 0.716
+    grav: 0.193
+
+    [Moon Name]
+    diam: 0.131
+    grav: 4.751
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.160
+    grav: 2.557
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 1.168
+    grav: 0.027
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.569
+    grav: 0.149
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.120
+    grav: 0.261
+
+    [Moon Name]
+    diam: 0.502
+    grav: 0.090
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.004
+
+    [Moon Name]
+    diam: 0.454
+    grav: 0.012
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.363
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.409
+    grav: 0.015
+
+    [Moon Name]
+    diam: 0.413
+    grav: 0.015
+
+    [Moon Name]
+    diam: 0.502
+    grav: 0.010
+
+    [Moon Name]
+    diam: 0.650
+    grav: 0.006
+
+    [Moon Name]
+    diam: 0.100
+    grav: 10.845
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.456
+
+    [Moon Name]
+    diam: 0.805
+    grav: 0.108
+
+    [Moon Name]
+    diam: 1.029
+    grav: 0.002
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.339
+    grav: 0.362
+
+    [Moon Name]
+    diam: 0.231
+    grav: 0.799
+
+    [Moon Name]
+    diam: 0.329
+    grav: 0.297
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.791
+
+    [Moon Name]
+    diam: 0.357
+    grav: 0.190
+
+    [Moon Name]
+    diam: 0.435
+    grav: 0.013
+
+    [Moon Name]
+    diam: 0.100
+    grav: 2.840
+
+    [Moon Name]
+    diam: 0.119
+    grav: 0.935
+
+    [Moon Name]
+    diam: 0.250
+    grav: 0.040
+
+    [Moon Name]
+    diam: 0.333
+    grav: 1.299
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.795
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.529
+
+    [Moon Name]
+    diam: 0.692
+    grav: 0.005
+
+
+  [Planet Name]
+  diam: 1.903
+  grav: 7.483
+  moons:
+    [Moon Name]
+    diam: 0.100
+    grav: 4.574
+
+    [Moon Name]
+    diam: 0.607
+    grav: 0.007
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.100
+    grav: 1.644
+
+    [Moon Name]
+    diam: 0.406
+    grav: 0.437
+
+    [Moon Name]
+    diam: 0.100
+    grav: 1.763
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.316
+
+    [Moon Name]
+    diam: 0.636
+    grav: 0.053
+
+    [Moon Name]
+    diam: 0.353
+    grav: 0.386
+
+    [Moon Name]
+    diam: 0.100
+    grav: 4.568
+
+    [Moon Name]
+    diam: 0.715
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.100
+    grav: 4.325
+
+    [Moon Name]
+    diam: 0.238
+    grav: 0.044
+
+    [Moon Name]
+    diam: 0.616
+    grav: 0.029
+
+    [Moon Name]
+    diam: 0.131
+    grav: 3.243
+
+    [Moon Name]
+    HABITABLE
+    diam: 0.414
+    grav: 0.524
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.819
+
+    [Moon Name]
+    diam: 0.613
+    grav: 0.007
+
+    [Moon Name]
+    diam: 0.757
+    grav: 0.004
+
+    [Moon Name]
+    diam: 0.369
+    grav: 0.386
+
+    [Moon Name]
+    diam: 0.445
+    grav: 0.013
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 6.148
+
+    [Moon Name]
+    diam: 0.400
+    grav: 0.016
+
+    [Moon Name]
+    diam: 0.711
+    grav: 0.005
+
+    [Moon Name]
+    diam: 0.100
+    grav: 5.970
+
+    [Moon Name]
+    diam: 0.233
+    grav: 0.046
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.100
+    grav: 0.250
+
+    [Moon Name]
+    diam: 0.941
+    grav: 0.003
+
+    [Moon Name]
+    diam: 0.100
+    grav: 3.795
+
+    [Moon Name]
+    diam: 0.151
+    grav: 0.110
+
+
