@@ -5,11 +5,11 @@ star mass: 1.190
 star grav: 1.516
 
 inner planets:
-  [Planet Name]
+  Iqaon Alpha 0
   diam: 0.338
   grav: 5.221
   moons:
-    [Moon Name]
+    Iquaon Alpha 1
     diam: 0.100
     grav: 0.250
 
@@ -19,171 +19,171 @@ outer planets:
   diam: 4.212
   grav: 2.393
   moons:
-    [Moon Name]
+    Iqaon Beta 1
     diam: 0.388
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Beta 2
     diam: 0.100
     grav: 1.049
 
-    [Moon Name]
+    Iqaon Beta 3
     diam: 0.479
     grav: 0.198
 
-    [Moon Name]
+    Iqaon Beta 4
     diam: 0.766
     grav: 0.055
 
-    [Moon Name]
+    Iqaon Beta 5
     diam: 0.294
     grav: 0.033
 
-    [Moon Name]
+    Iqaon Beta 6
     diam: 0.227
     grav: 0.049
 
-    [Moon Name]
+    Iqaon Beta 7
     diam: 0.182
     grav: 0.407
 
-    [Moon Name]
+    Iqaon Beta 8
     diam: 0.514
     grav: 0.103
 
-    [Moon Name]
+    Iqaon Beta 9
     diam: 0.581
     grav: 0.123
 
-    [Moon Name]
+    Iqaon Beta 10
     diam: 0.429
     grav: 0.014
 
-    [Moon Name]
+    Iqaon Beta 11
     diam: 0.100
     grav: 2.906
 
-    [Moon Name]
+    Iqaon Beta 12
     diam: 0.454
     grav: 0.042
 
-    [Moon Name]
+    Iqaon Beta 13
     diam: 0.337
     grav: 0.022
 
-    [Moon Name]
+    Iqaon Beta 14
     diam: 0.413
     grav: 0.015
 
-    [Moon Name]
+    Iqaon Beta 15
     diam: 0.634
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Beta 16
     diam: 0.597
     grav: 0.007
 
-    [Moon Name]
+    Iqaon Beta 17
     diam: 0.700
     grav: 0.081
 
-    [Moon Name]
+    Iqaon Beta 18
     diam: 0.100
     grav: 4.059
 
-    [Moon Name]
+    Iqaon Beta 19
     diam: 0.350
     grav: 0.036
 
-    [Moon Name]
+    Iqaon Beta 20
     diam: 0.906
     grav: 0.053
 
-    [Moon Name]
+    Iqaon Beta 21
     diam: 0.998
     grav: 0.060
 
-    [Moon Name]
+    Iqaon Beta 22
     diam: 0.450
     grav: 0.179
 
-    [Moon Name]
+    Iqaon Beta 23
     diam: 0.682
     grav: 0.005
 
-    [Moon Name]
+    Iqaon Beta 24
     diam: 0.283
     grav: 0.703
 
-    [Moon Name]
+    Iqaon Beta 25
     diam: 0.252
     grav: 0.470
 
-    [Moon Name]
+    Iqaon Beta 26
     diam: 0.604
     grav: 0.141
 
-    [Moon Name]
+    Iqaon Beta 27
     diam: 0.401
     grav: 0.183
 
-    [Moon Name]
+    Iqaon Beta 28
     diam: 0.734
     grav: 0.005
 
-    [Moon Name]
+    Iqaon Beta 29
     diam: 0.482
     grav: 0.097
 
-    [Moon Name]
+    Iqaon Beta 30
     diam: 0.100
     grav: 5.456
 
-    [Moon Name]
+    Iqaon Beta 31
     diam: 0.100
     grav: 6.467
 
-    [Moon Name]
+    Iqaon Beta 32
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Beta 33
     diam: 0.100
     grav: 2.521
 
-    [Moon Name]
+    Iqaon Beta 34
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Beta 35
     diam: 0.541
     grav: 0.210
 
-    [Moon Name]
+    Iqaon Beta 36
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Beta 37
     diam: 0.337
     grav: 0.022
 
-    [Moon Name]
+    Iqaon Beta 38
     diam: 0.100
     grav: 3.042
 
-    [Moon Name]
+    Iqaon Beta 39
     diam: 0.337
     grav: 0.022
 
-    [Moon Name]
+    Iqaon Beta 40
     diam: 0.460
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Beta 41
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Beta 42
     diam: 0.471
     grav: 0.011
 
@@ -191,36 +191,36 @@ outer planets:
     HABITABLE (Alastra, low)
     diam: 0.100
     grav: 0.339
-
-    [Moon Name]
+    
+    Iqaon Beta 44
     diam: 0.100
     grav: 2.682
 
-    [Moon Name]
+    Iqaon Beta 45
     diam: 0.353
     grav: 0.027
 
-    [Moon Name]
+    Iqaon Beta 46
     diam: 0.100
     grav: 4.989
 
-    [Moon Name]
+    Iqaon Beta 47
     diam: 0.259
     grav: 0.037
 
-    [Moon Name]
+    Iqaon Beta 48
     diam: 0.100
     grav: 7.347
 
-    [Moon Name]
+    Iqaon Beta 49
     diam: 0.915
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Beta 50
     diam: 0.253
     grav: 0.165
 
-    [Moon Name]
+    Iqaon Beta 51
     diam: 0.232
     grav: 0.047
 
@@ -229,15 +229,15 @@ outer planets:
   diam: 3.594
   grav: 6.122
   moons:
-    [Moon Name]
+    Iqaon Gamma 1
     diam: 0.686
     grav: 0.041
 
-    [Moon Name]
+    Iqaon Gamma 2
     diam: 0.580
     grav: 0.117
 
-    [Moon Name]
+    Iqaon Gamma 3
     diam: 0.100
     grav: 0.250
 
@@ -246,43 +246,43 @@ outer planets:
     diam: 0.100
     grav: 1.408
 
-    [Moon Name]
+    Iqaon Gamma 5
     diam: 0.100
     grav: 2.449
 
-    [Moon Name]
+    Iqaon Gamma 6
     diam: 0.152
     grav: 0.984
 
-    [Moon Name]
+    Iqaon Gamma 7
     diam: 0.406
     grav: 0.218
 
-    [Moon Name]
+    Iqaon Gamma 8
     diam: 0.623
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Gamma 9
     diam: 1.138
     grav: 0.054
 
-    [Moon Name]
+    Iqaon Gamma 10
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 11
     diam: 0.904
     grav: 0.061
 
-    [Moon Name]
+    Iqaon Gamma 12
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 13
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 14
     diam: 0.808
     grav: 0.156
 
@@ -291,51 +291,51 @@ outer planets:
     diam: 0.190
     grav: 2.407
 
-    [Moon Name]
+    Iqaon Gamma 16
     diam: 0.248
     grav: 0.041
 
-    [Moon Name]
+    Iqaon Gamma 17
     diam: 0.982
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Gamma 18
     diam: 0.624
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Gamma 19
     diam: 0.100
     grav: 9.238
 
-    [Moon Name]
+    Iqaon Gamma 20
     diam: 0.460
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Gamma 21
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 22
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 23
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 24
     diam: 0.480
     grav: 0.086
 
-    [Moon Name]
+    Iqaon Gamma 25
     diam: 0.423
     grav: 0.014
 
-    [Moon Name]
+    Iqaon Gamma 26
     diam: 1.277
     grav: 0.002
 
-    [Moon Name]
+    Iqaon Gamma 27
     diam: 0.100
     grav: 0.250
 
@@ -344,1282 +344,1216 @@ outer planets:
     diam: 0.318
     grav: 1.012
 
-    [Moon Name]
+    Iqaon Gamma 29
     diam: 0.656
     grav: 0.044
 
-    [Moon Name]
+    Iqaon Gamma 30
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 31
     diam: 0.822
     grav: 0.047
 
-    [Moon Name]
+    Iqaon Gamma 32
     diam: 0.384
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Gamma 33
     diam: 0.501
     grav: 0.208
 
-    [Moon Name]
+    Iqaon Gamma 34
     diam: 0.426
     grav: 0.260
 
-    [Moon Name]
+    Iqaon Gamma 35
     diam: 0.261
     grav: 0.037
 
-    [Moon Name]
+    Iqaon Gamma 36
     diam: 0.588
     grav: 0.007
 
-    [Moon Name]
+    Iqaon Gamma 37
     diam: 0.100
     grav: 4.571
 
-    [Moon Name]
+    Iqaon Gamma 38
     diam: 0.100
     grav: 3.230
 
-    [Moon Name]
+    Iqaon Gamma 39
     diam: 0.198
     grav: 0.071
 
-    [Moon Name]
+    Iqaon Gamma 40
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 41
     diam: 0.652
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Gamma 42
     diam: 0.108
     grav: 0.213
 
-    [Moon Name]
+    Iqaon Gamma 43
     diam: 0.512
     grav: 0.170
 
-    [Moon Name]
+    Iqaon Gamma 44
     diam: 0.100
     grav: 4.905
 
-    [Moon Name]
+    Iqaon Gamma 45
     diam: 0.100
     grav: 2.131
 
-    [Moon Name]
+    Iqaon Gamma 46
     diam: 0.100
     grav: 9.494
 
-    [Moon Name]
+    Iqaon Gamma 47
     diam: 0.862
     grav: 0.078
 
-    [Moon Name]
+    Iqaon Gamma 48
     diam: 0.100
     grav: 4.968
 
-    [Moon Name]
+    Iqaon Gamma 49
     diam: 0.513
     grav: 0.236
 
-    [Moon Name]
+    Iqaon Gamma 50
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Gamma 51
     diam: 0.547
     grav: 0.008
 
 
-  [Planet Name]
+  Iqaon Delta 0
   HABITABLE
   diam: 5.585
   grav: 0.759
   moons:
-    [Moon Name]
+    Iqaon Delta 1
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Delta 2
     diam: 0.317
     grav: 0.025
 
-    [Moon Name]
+    Iqaon Delta 3
     diam: 0.451
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Delta 4
     diam: 0.591
     grav: 0.234
 
-    [Moon Name]
+    Iqaon Delta 5
     diam: 0.562
     grav: 0.063
 
-    [Moon Name]
+    Iqaon Delta 6
     diam: 0.522
     grav: 0.042
 
-    [Moon Name]
+    Iqaon Delta 7
     diam: 0.174
     grav: 2.279
 
-    [Moon Name]
+    Iqaon Delta 8
     diam: 0.780
     grav: 0.004
 
-    [Moon Name]
+    Iqaon Delta 9
     diam: 0.650
     grav: 0.189
 
-    [Moon Name]
+    Iqaon Delta 10
     diam: 0.492
     grav: 0.130
 
-    [Moon Name]
+    Iqaon Delta 11
     diam: 0.153
     grav: 0.106
 
-    [Moon Name]
+    Iqaon Delta 12
     diam: 0.100
     grav: 1.191
 
 
-  [Planet Name]
+  Iqaon Epsilon 0
   diam: 3.627
   grav: 2.302
   moons:
-    [Moon Name]
-    diam: 0.843
+    Iqaon Epsilon 1
+    diam: 0.100
+    grav: 0.250
+
+    Iqaon Epsilon 2
+    diam: 0.317
+    grav: 0.025
+
+    Iqaon Epsilon 3
+    diam: 0.451
+    grav: 0.012
+
+    Iqaon Epsilon 4
+    diam: 0.591
+    grav: 0.234
+
+    Iqaon Epsilon 5
+    diam: 0.562
+    grav: 0.063
+
+    Iqaon Epsilon 6
+    diam: 0.522
+    grav: 0.042
+
+    Iqaon Epsilon 7
+    diam: 0.174
+    grav: 2.279
+
+    Iqaon Epsilon 8
+    diam: 0.780
     grav: 0.004
 
-    [Moon Name]
-    diam: 0.526
-    grav: 0.109
+    Iqaon Epsilon 9
+    diam: 0.650
+    grav: 0.189
 
-    [Moon Name]
-    HABITABLE
-    diam: 0.100
-    grav: 1.804
+    Iqaon Epsilon 10
+    diam: 0.492
+    grav: 0.130
 
-    [Moon Name]
-    diam: 0.340
-    grav: 0.022
-
-    [Moon Name]
-    diam: 0.417
-    grav: 0.777
-
-    [Moon Name]
-    diam: 0.342
+    Iqaon Epsilon 11
+    diam: 0.153
     grav: 0.106
 
-    [Moon Name]
+    Iqaon Epsilon 12
     diam: 0.100
-    grav: 0.491
-
-    [Moon Name]
-    diam: 0.160
-    grav: 2.335
-
-    [Moon Name]
-    diam: 0.788
-    grav: 0.089
-
-    [Moon Name]
-    diam: 0.100
-    grav: 0.250
-
-    [Moon Name]
-    HABITABLE
-    diam: 0.218
-    grav: 1.294
-
-    [Moon Name]
-    diam: 0.300
-    grav: 0.782
-
-    [Moon Name]
-    diam: 0.479
-    grav: 0.011
-
-    [Moon Name]
-    diam: 0.100
-    grav: 0.250
-
-    [Moon Name]
-    diam: 0.270
-    grav: 0.336
-
-    [Moon Name]
-    diam: 0.132
-    grav: 0.144
-
-    [Moon Name]
-    diam: 0.100
-    grav: 1.072
-
-    [Moon Name]
-    diam: 0.284
-    grav: 0.031
-
-    [Moon Name]
-    diam: 0.100
-    grav: 2.059
-
-    [Moon Name]
-    diam: 0.161
-    grav: 2.360
-
-    [Moon Name]
-    diam: 0.100
-    grav: 0.250
-
-    [Moon Name]
-    diam: 0.839
-    grav: 0.004
-
-    [Moon Name]
-    diam: 0.655
-    grav: 0.154
-
-    [Moon Name]
-    diam: 0.100
-    grav: 1.380
-
-    [Moon Name]
-    diam: 0.100
-    grav: 0.250
-
-    [Moon Name]
-    diam: 0.401
-    grav: 0.016
-
-    [Moon Name]
-    diam: 0.100
-    grav: 9.093
-
-    [Moon Name]
-    diam: 0.462
-    grav: 0.468
+    grav: 1.191
 
 
-  [Planet Name]
+  Iqaon Zeta 0
   diam: 5.723
   grav: 1.906
   moons:
-    [Moon Name]
+    Iqaon Zeta 1
     diam: 0.428
     grav: 0.243
 
-    [Moon Name]
+    Iqaon Zeta 2
     diam: 0.810
     grav: 0.014
 
-    [Moon Name]
+    Iqaon Zeta 3
     diam: 0.557
     grav: 0.008
 
-    [Moon Name]
+    Iqaon Zeta 4
     diam: 0.100
     grav: 9.464
 
-    [Moon Name]
+    Iqaon Zeta 5
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Zeta 6
     diam: 0.118
     grav: 0.179
 
-    [Moon Name]
+    Iqaon Zeta 7
     diam: 0.100
     grav: 4.292
 
-    [Moon Name]
+    Iqaon Zeta 8
     diam: 0.456
     grav: 0.083
 
-    [Moon Name]
+    Iqaon Zeta 9
     diam: 0.100
     grav: 1.163
 
-    [Moon Name]
+    Iqaon Zeta 10
     diam: 0.306
     grav: 0.609
 
-    [Moon Name]
+    Iqaon Zeta 11
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Zeta 12
     diam: 0.934
     grav: 0.068
 
-    [Moon Name]
+    Iqaon Zeta 13
     diam: 0.338
     grav: 0.022
 
-    [Moon Name]
+    Iqaon Zeta 14
     diam: 0.100
     grav: 3.360
 
-    [Moon Name]
+    Iqaon Zeta 15
     diam: 0.392
     grav: 0.536
 
-    [Moon Name]
+    Iqaon Zeta 16
     diam: 0.100
     grav: 4.249
 
-    [Moon Name]
+    Iqaon Zeta 17
     diam: 0.100
     grav: 4.535
 
-    [Moon Name]
+    Iqaon Zeta 18
     diam: 0.285
     grav: 0.357
 
-    [Moon Name]
+    Iqaon Zeta 19
     diam: 0.100
     grav: 3.839
 
-    [Moon Name]
+    Iqaon Zeta 20
     HABITABLE
     diam: 0.100
     grav: 2.011
 
-    [Moon Name]
+    Iqaon Zeta 21
     diam: 1.035
     grav: 0.024
 
-    [Moon Name]
+    Iqaon Zeta 22
     diam: 0.517
     grav: 0.009
 
 
-  [Planet Name]
+  Iqaon Eta 0
   HABITABLE
   diam: 6.943
   grav: 0.677
   moons:
-    [Moon Name]
+    Iqaon Eta 1
     HABITABLE
     diam: 0.440
     grav: 0.310
 
-    [Moon Name]
+    Iqaon Eta 2
     diam: 0.100
     grav: 9.194
 
-    [Moon Name]
+    Iqaon Eta 3
     diam: 0.100
     grav: 5.039
 
-    [Moon Name]
+    Iqaon Eta 4
     diam: 0.515
     grav: 0.171
 
-    [Moon Name]
+    Iqaon Eta 5
     diam: 0.393
     grav: 0.034
 
-    [Moon Name]
+    Iqaon Eta 6
     HABITABLE
     diam: 0.100
     grav: 2.954
 
-    [Moon Name]
+    Iqaon Eta 7
     diam: 0.310
     grav: 0.268
 
-    [Moon Name]
+    Iqaon Eta 8
     diam: 0.100
     grav: 2.045
 
-    [Moon Name]
+    Iqaon Eta 9
     diam: 0.431
     grav: 0.013
 
-    [Moon Name]
+    Iqaon Eta 10
     diam: 0.100
     grav: 0.964
 
-    [Moon Name]
+    Iqaon Eta 11
     diam: 0.326
     grav: 0.024
 
-    [Moon Name]
+    Iqaon Eta 12
     diam: 0.389
     grav: 0.232
 
-    [Moon Name]
+    Iqaon Eta 13
     diam: 0.571
     grav: 0.312
 
-    [Moon Name]
+    Iqaon Eta 14
     diam: 0.166
     grav: 0.889
 
-    [Moon Name]
+    Iqaon Eta 15
     diam: 0.100
     grav: 1.607
 
-    [Moon Name]
+    Iqaon Eta 16
     diam: 0.484
     grav: 0.278
 
-    [Moon Name]
+    Iqaon Eta 17
     diam: 0.100
     grav: 2.341
 
-    [Moon Name]
+    Iqaon Eta 18
     diam: 0.445
     grav: 0.075
 
-    [Moon Name]
+    Iqaon Eta 19
     diam: 0.863
     grav: 0.009
 
-    [Moon Name]
+    Iqaon Eta 20
     diam: 0.123
     grav: 0.165
 
-    [Moon Name]
+    Iqaon Eta 21
     diam: 0.160
     grav: 2.525
 
-    [Moon Name]
+    Iqaon Eta 22
     HABITABLE
     diam: 0.100
     grav: 1.706
 
-    [Moon Name]
+    Iqaon Eta 23
     diam: 0.802
     grav: 0.033
 
-    [Moon Name]
+    Iqaon Eta 24
     diam: 0.624
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Eta 25
     diam: 0.250
     grav: 1.119
 
-    [Moon Name]
+    Iqaon Eta 26
     HABITABLE
     diam: 0.100
     grav: 0.951
 
-    [Moon Name]
+    Iqaon Eta 27
     diam: 0.203
     grav: 0.577
 
 
-  [Planet Name]
+  Iqaon Theta 0
   diam: 2.381
   grav: 8.834
   moons:
-    [Moon Name]
+    Iqaon Theta 1
     diam: 0.361
     grav: 0.019
 
-    [Moon Name]
+    Iqaon Theta 2
     diam: 0.155
     grav: 0.224
 
-    [Moon Name]
+    Iqaon Theta 3
     diam: 0.188
     grav: 0.070
 
-    [Moon Name]
+    Iqaon Theta 4
     diam: 0.551
     grav: 0.282
 
-    [Moon Name]
+    Iqaon Theta 5
     diam: 0.459
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Theta 6
     diam: 0.657
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Theta 7
     diam: 0.540
     grav: 0.009
 
-    [Moon Name]
+    Iqaon Theta 8
     diam: 0.280
     grav: 0.032
 
-    [Moon Name]
+    Iqaon Theta 9
     diam: 0.940
     grav: 0.126
 
-    [Moon Name]
+    Iqaon Theta 10
     diam: 0.775
     grav: 0.004
 
-    [Moon Name]
+    Iqaon Theta 11
     diam: 0.100
     grav: 6.400
 
-    [Moon Name]
+    Iqaon Theta 12
     diam: 0.172
     grav: 2.008
 
-    [Moon Name]
+    Iqaon Theta 13
     diam: 0.659
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Theta 14
     diam: 0.100
     grav: 11.094
 
-    [Moon Name]
+    Iqaon Theta 15
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Theta 16
     diam: 0.503
     grav: 0.062
 
-    [Moon Name]
+    Iqaon Theta 17
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Theta 18
     diam: 0.638
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Theta 19
     diam: 0.100
     grav: 3.176
 
-    [Moon Name]
+    Iqaon Theta 20
     diam: 0.404
     grav: 0.029
 
-    [Moon Name]
+    Iqaon Theta 21
     diam: 0.264
     grav: 0.036
 
-    [Moon Name]
+    Iqaon Theta 22
     diam: 0.484
     grav: 0.011
 
-    [Moon Name]
+    Iqaon Theta 23
     diam: 0.100
     grav: 13.288
 
-    [Moon Name]
+    Iqaon Theta 24
     diam: 0.100
     grav: 3.162
 
-    [Moon Name]
+    Iqaon Theta 25
     diam: 0.381
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Theta 26
     diam: 0.174
     grav: 0.083
 
-    [Moon Name]
+    Iqaon Theta 27
     diam: 1.245
     grav: 0.024
 
-    [Moon Name]
+    Iqaon Theta 28
     diam: 0.494
     grav: 0.237
 
-    [Moon Name]
+    Iqaon Theta 29
     diam: 0.348
     grav: 0.021
 
-    [Moon Name]
+    Iqaon Theta 30
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Theta 31
     diam: 0.858
     grav: 0.023
 
-    [Moon Name]
+    Iqaon Theta 32
     diam: 0.522
     grav: 0.099
 
-    [Moon Name]
+    Iqaon Theta 33
     HABITABLE
     diam: 0.100
     grav: 2.254
 
-    [Moon Name]
+    Iqaon Theta 34
     diam: 0.563
     grav: 0.008
 
-    [Moon Name]
+    Iqaon Theta 35
     diam: 0.762
     grav: 0.004
 
-    [Moon Name]
+    Iqaon Theta 36
     diam: 0.100
     grav: 4.079
 
-    [Moon Name]
+    Iqaon Theta 37
     diam: 0.537
     grav: 0.009
 
-    [Moon Name]
+    Iqaon Theta 38
     diam: 0.100
     grav: 4.902
 
-    [Moon Name]
+    Iqaon Theta 39
     diam: 0.216
     grav: 0.053
 
-    [Moon Name]
+    Iqaon Theta 40
     diam: 0.198
     grav: 0.064
 
-    [Moon Name]
+    Iqaon Theta 41
     diam: 0.822
     grav: 0.041
 
-    [Moon Name]
+    Iqaon Theta 42
     diam: 0.712
     grav: 0.157
 
-    [Moon Name]
+    Iqaon Theta 43
     diam: 0.229
     grav: 0.048
 
 
-  [Planet Name]
+  Iqaon Iota 0
   diam: 6.838
   grav: 0.821
   moons:
-    [Moon Name]
+    Iqaon Iota 1
     HABITABLE
     diam: 0.218
     grav: 0.701
 
-    [Moon Name]
+    Iqaon Iota 2
     diam: 0.388
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Iota 3
     diam: 0.100
     grav: 8.440
 
-    [Moon Name]
+    Iqaon Iota 4
     diam: 0.422
     grav: 0.215
 
-    [Moon Name]
+    Iqaon Iota 5
     diam: 0.890
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Iota 6
     diam: 0.846
     grav: 0.060
 
-    [Moon Name]
+    Iqaon Iota 7
     diam: 1.052
     grav: 0.044
 
-    [Moon Name]
+    Iqaon Iota 8
     diam: 0.521
     grav: 0.072
 
-    [Moon Name]
+    Iqaon Iota 9
     diam: 0.387
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Iota 10
     diam: 0.628
     grav: 0.048
 
-    [Moon Name]
+    Iqaon Iota 11
     diam: 0.100
     grav: 6.324
 
-    [Moon Name]
+    Iqaon Iota 12
     diam: 0.100
     grav: 5.028
 
-    [Moon Name]
+    Iqaon Iota 13
     diam: 0.457
     grav: 0.152
 
-    [Moon Name]
+    Iqaon Iota 14
     diam: 0.100
     grav: 4.086
 
-    [Moon Name]
+    Iqaon Iota 15
     diam: 0.663
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Iota 16
     diam: 0.462
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Iota 17
     diam: 0.287
     grav: 0.030
 
-    [Moon Name]
+    Iqaon Iota 18
     diam: 0.393
     grav: 0.338
 
-    [Moon Name]
+    Iqaon Iota 19
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Iota 20
     diam: 0.323
     grav: 0.143
 
-    [Moon Name]
+    Iqaon Iota 21
     diam: 0.107
     grav: 0.217
 
-    [Moon Name]
+    Iqaon Iota 22
     diam: 0.100
     grav: 1.000
 
-    [Moon Name]
+    Iqaon Iota 23
     diam: 0.793
     grav: 0.090
 
-    [Moon Name]
+    Iqaon Iota 24
     diam: 0.100
     grav: 4.325
 
-    [Moon Name]
+    Iqaon Iota 25
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Iota 26
     diam: 0.314
     grav: 0.848
 
-    [Moon Name]
+    Iqaon Iota 27
     HABITABLE
     diam: 0.353
     grav: 0.593
 
-    [Moon Name]
+    Iqaon Iota 28
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Iota 29
     diam: 0.100
     grav: 6.712
 
-    [Moon Name]
+    Iqaon Iota 30
     diam: 0.435
     grav: 0.050
 
-    [Moon Name]
+    Iqaon Iota 31
     diam: 0.100
     grav: 1.000
 
-    [Moon Name]
+    Iqaon Iota 32
     diam: 0.411
     grav: 0.015
 
-    [Moon Name]
+    Iqaon Iota 33
     diam: 0.100
     grav: 9.319
 
-    [Moon Name]
+    Iqaon Iota 34
     HABITABLE
     diam: 0.500
     grav: 0.373
 
-    [Moon Name]
+    Iqaon Iota 35
     diam: 0.512
     grav: 0.192
 
-    [Moon Name]
+    Iqaon Iota 36
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Iota 37
     diam: 0.632
     grav: 0.117
 
-    [Moon Name]
+    Iqaon Iota 38
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Iota 39
     diam: 0.440
     grav: 0.013
 
-    [Moon Name]
+    Iqaon Iota 40
     diam: 0.125
     grav: 0.674
 
-    [Moon Name]
+    Iqaon Iota 41
     diam: 0.659
     grav: 0.210
 
-    [Moon Name]
+    Iqaon Iota 42
     diam: 0.286
     grav: 0.031
 
-    [Moon Name]
+    Iqaon Iota 43
     diam: 0.454
     grav: 0.332
 
-    [Moon Name]
+    Iqaon Iota 44
     diam: 0.246
     grav: 0.048
 
-    [Moon Name]
+    Iqaon Iota 45
     diam: 0.100
     grav: 7.046
 
-    [Moon Name]
+    Iqaon Iota 46
     diam: 0.100
     grav: 4.855
 
-    [Moon Name]
+    Iqaon Iota 47
     diam: 0.134
     grav: 0.140
 
-    [Moon Name]
+    Iqaon Iota 48
     diam: 0.460
     grav: 0.108
 
-    [Moon Name]
+    Iqaon Iota 49
     diam: 0.256
     grav: 0.038
 
 
-  [Planet Name]
+  Iqaon Kappa 0
   HABITABLE
   diam: 7.359
   grav: 0.806
   moons:
-    [Moon Name]
+    Iqaon Kappa 1
     diam: 0.354
     grav: 0.647
 
-    [Moon Name]
+    Iqaon Kappa 2
     diam: 0.400
     grav: 0.016
 
-    [Moon Name]
+    Iqaon Kappa 3
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Kappa 4
     diam: 0.277
     grav: 0.769
 
-    [Moon Name]
+    Iqaon Kappa 5
     diam: 0.402
     grav: 0.016
 
-    [Moon Name]
+    Iqaon Kappa 6
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Kappa 7
     diam: 0.523
     grav: 0.009
 
-    [Moon Name]
+    Iqaon Kappa 8
     diam: 0.120
     grav: 1.770
 
-    [Moon Name]
+    Iqaon Kappa 9
     diam: 0.215
     grav: 0.054
 
-    [Moon Name]
+    Iqaon Kappa 10
     diam: 1.184
     grav: 0.018
 
-    [Moon Name]
+    Iqaon Kappa 11
     diam: 0.335
     grav: 0.345
 
-    [Moon Name]
+    Iqaon Kappa 12
     diam: 0.100
     grav: 1.261
 
-    [Moon Name]
+    Iqaon Kappa 13
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Kappa 14
     diam: 0.100
     grav: 0.540
 
 
-  [Planet Name]
+  Iqaon Lambda 0
   diam: 2.861
   grav: 4.305
   moons:
-    [Moon Name]
+    Iqaon Lambda 1
     diam: 1.144
     grav: 0.002
 
-    [Moon Name]
+    Iqaon Lambda 2
     diam: 1.114
     grav: 0.019
 
-    [Moon Name]
+    Iqaon Lambda 3
     diam: 0.566
     grav: 0.075
 
-    [Moon Name]
+    Iqaon Lambda 4
     diam: 0.164
     grav: 1.148
 
-    [Moon Name]
+    Iqaon Lambda 5
     diam: 0.956
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Lambda 6
     diam: 0.844
     grav: 0.029
 
-    [Moon Name]
+    Iqaon Lambda 7
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Lambda 8
     diam: 0.400
     grav: 0.016
 
-    [Moon Name]
+    Iqaon Lambda 9
     diam: 0.512
     grav: 0.022
 
-    [Moon Name]
+    Iqaon Lambda 10
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Lambda 11
     diam: 1.000
     grav: 0.002
 
-    [Moon Name]
+    Iqaon Lambda 12
     diam: 0.474
     grav: 0.189
 
-    [Moon Name]
+    Iqaon Lambda 13
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Lambda 14
     HABITABLE
     diam: 0.100
     grav: 2.672
 
-    [Moon Name]
+    Iqaon Lambda 15
     diam: 0.100
     grav: 3.846
 
-    [Moon Name]
+    Iqaon Lambda 16
     diam: 0.610
     grav: 0.089
 
-    [Moon Name]
+    Iqaon Lambda 17
     diam: 0.386
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Lambda 18
     diam: 0.100
     grav: 2.045
 
-    [Moon Name]
+    Iqaon Lambda 19
     diam: 0.156
     grav: 0.102
 
-    [Moon Name]
+    Iqaon Lambda 20
     diam: 0.505
     grav: 0.010
 
-    [Moon Name]
+    Iqaon Lambda 21
     diam: 0.304
     grav: 0.360
 
-    [Moon Name]
+    Iqaon Lambda 22
     diam: 0.623
     grav: 0.070
 
-    [Moon Name]
+    Iqaon Lambda 23
     diam: 0.844
     grav: 0.015
 
-    [Moon Name]
+    Iqaon Lambda 24
     diam: 0.267
     grav: 0.035
 
-    [Moon Name]
+    Iqaon Lambda 25
     diam: 0.156
     grav: 0.103
 
-    [Moon Name]
+    Iqaon Lambda 26
     diam: 0.622
     grav: 0.278
 
-    [Moon Name]
+    Iqaon Lambda 27
     diam: 0.100
     grav: 4.060
 
 
-  [Planet Name]
+  Iqaon Mu 0
   diam: 4.256
   grav: 1.848
   moons:
-    [Moon Name]
+    Iqaon Mu 1
     diam: 0.920
     grav: 0.074
 
-    [Moon Name]
+    Iqaon Mu 2
     diam: 0.100
     grav: 8.687
 
-    [Moon Name]
+    Iqaon Mu 3
     diam: 1.090
     grav: 0.051
 
-    [Moon Name]
+    Iqaon Mu 4
     diam: 0.449
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Mu 5
     diam: 0.753
     grav: 0.004
 
-    [Moon Name]
+    Iqaon Mu 6
     diam: 0.489
     grav: 0.010
 
-    [Moon Name]
+    Iqaon Mu 7
     diam: 0.100
     grav: 3.066
 
-    [Moon Name]
+    Iqaon Mu 8
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 9
     diam: 0.532
     grav: 0.069
 
-    [Moon Name]
+    Iqaon Mu 10
     diam: 0.223
     grav: 1.785
 
-    [Moon Name]
+    Iqaon Mu 11
     diam: 0.738
     grav: 0.158
 
-    [Moon Name]
+    Iqaon Mu 12
     diam: 0.197
     grav: 0.064
 
-    [Moon Name]
+    Iqaon Mu 13
     diam: 0.194
     grav: 2.344
 
-    [Moon Name]
+    Iqaon Mu 14
     diam: 1.285
     grav: 0.027
 
-    [Moon Name]
+    Iqaon Mu 15
     diam: 0.100
     grav: 7.451
 
-    [Moon Name]
+    Iqaon Mu 16
     diam: 0.100
     grav: 0.495
 
-    [Moon Name]
+    Iqaon Mu 17
     HABITABLE
     diam: 0.118
     grav: 2.452
 
-    [Moon Name]
+    Iqaon Mu 18
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 19
     diam: 0.100
     grav: 6.660
 
-    [Moon Name]
+    Iqaon Mu 20
     diam: 0.384
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Mu 21
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 22
     diam: 0.706
     grav: 0.005
 
-    [Moon Name]
+    Iqaon Mu 23
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 24
     diam: 0.284
     grav: 0.031
 
-    [Moon Name]
+    Iqaon Mu 25
     diam: 0.100
     grav: 2.787
 
-    [Moon Name]
+    Iqaon Mu 26
     diam: 0.454
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Mu 27
     diam: 0.681
     grav: 0.146
 
-    [Moon Name]
+    Iqaon Mu 28
     diam: 0.341
     grav: 0.022
 
-    [Moon Name]
+    Iqaon Mu 29
     diam: 0.950
     grav: 0.031
 
-    [Moon Name]
+    Iqaon Mu 30
     diam: 0.849
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Mu 31
     diam: 0.340
     grav: 0.272
 
-    [Moon Name]
+    Iqaon Mu 32
     diam: 0.100
     grav: 2.132
 
-    [Moon Name]
+    Iqaon Mu 33
     diam: 0.387
     grav: 0.145
 
-    [Moon Name]
+    Iqaon Mu 34
     diam: 0.422
     grav: 0.091
 
-    [Moon Name]
+    Iqaon Mu 35
     diam: 0.733
     grav: 0.076
 
-    [Moon Name]
+    Iqaon Mu 36
     diam: 0.100
     grav: 11.199
 
-    [Moon Name]
+    Iqaon Mu 37
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 38
     diam: 0.104
     grav: 2.704
 
-    [Moon Name]
+    Iqaon Mu 39
     diam: 0.687
     grav: 0.116
 
-    [Moon Name]
+    Iqaon Mu 40
     diam: 0.644
     grav: 0.241
 
-    [Moon Name]
+    Iqaon Mu 41
     diam: 0.716
     grav: 0.077
 
-    [Moon Name]
+    Iqaon Mu 42
     diam: 0.648
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Mu 43
     diam: 0.826
     grav: 0.147
 
-    [Moon Name]
+    Iqaon Mu 44
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 45
     diam: 0.782
     grav: 0.004
 
-    [Moon Name]
+    Iqaon Mu 46
     HABITABLE
     diam: 0.100
     grav: 1.617
 
-    [Moon Name]
+    Iqaon Mu 47
     diam: 0.684
     grav: 0.055
 
-    [Moon Name]
+    Iqaon Mu 48
     diam: 0.263
     grav: 0.523
 
-    [Moon Name]
+    Iqaon Mu 49
     diam: 0.510
     grav: 0.114
 
-    [Moon Name]
+    Iqaon Mu 50
     diam: 0.389
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Mu 51
     diam: 0.100
     grav: 1.616
 
-    [Moon Name]
+    Iqaon Mu 52
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 53
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 54
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Mu 55
     HABITABLE
     diam: 0.100
     grav: 0.541
 
-    [Moon Name]
+    Iqaon Mu 56
     diam: 0.433
     grav: 0.085
 
-    [Moon Name]
+    Iqaon Mu 57
     diam: 0.238
     grav: 0.044
 
-    [Moon Name]
+    Iqaon Mu 58
     diam: 1.167
     grav: 0.002
 
-    [Moon Name]
+    Iqaon Mu 59
     diam: 0.100
     grav: 8.902
 
@@ -1628,23 +1562,23 @@ outer planets:
   diam: 7.359
   grav: 1.147
   moons:
-    [Moon Name]
+    Iqaon Nu 1
     diam: 0.325
     grav: 0.608
 
-    [Moon Name]
+    Iqaon Nu 2
     diam: 0.173
     grav: 0.861
 
-    [Moon Name]
+    Iqaon Nu 3
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 4
     diam: 0.240
     grav: 0.043
 
-    [Moon Name]
+    Iqaon Nu 5
     diam: 0.100
     grav: 0.250
 
@@ -1653,71 +1587,71 @@ outer planets:
     diam: 0.100
     grav: 1.431
 
-    [Moon Name]
+    Iqaon Nu 7
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 8
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 9
     diam: 0.246
     grav: 1.334
 
-    [Moon Name]
+    Iqaon Nu 10
     diam: 0.235
     grav: 0.711
 
-    [Moon Name]
+    Iqaon Nu 11
     diam: 0.494
     grav: 0.132
 
-    [Moon Name]
+    Iqaon Nu 12
     diam: 1.021
     grav: 0.002
 
-    [Moon Name]
+    Iqaon Nu 13
     diam: 0.100
     grav: 5.836
 
-    [Moon Name]
+    Iqaon Nu 14
     diam: 0.187
     grav: 0.071
 
-    [Moon Name]
+    Iqaon Nu 15
     diam: 0.521
     grav: 0.080
 
-    [Moon Name]
+    Iqaon Nu 16
     diam: 0.913
     grav: 0.031
 
-    [Moon Name]
+    Iqaon Nu 17
     diam: 0.100
     grav: 5.802
 
-    [Moon Name]
+    Iqaon Nu 18
     diam: 0.100
     grav: 2.406
 
-    [Moon Name]
+    Iqaon Nu 19
     diam: 0.418
     grav: 0.143
 
-    [Moon Name]
+    Iqaon Nu 20
     diam: 0.100
     grav: 0.774
 
-    [Moon Name]
+    Iqaon Nu 21
     diam: 0.220
     grav: 0.423
 
-    [Moon Name]
+    Iqaon Nu 22
     diam: 0.684
     grav: 0.030
 
-    [Moon Name]
+    Iqaon Nu 23
     diam: 0.100
     grav: 0.250
 
@@ -1726,31 +1660,31 @@ outer planets:
     diam: 0.100
     grav: 2.014
 
-    [Moon Name]
+    Iqaon Nu 25
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 26
     diam: 0.100
     grav: 7.916
 
-    [Moon Name]
+    Iqaon Nu 27
     diam: 0.395
     grav: 0.126
 
-    [Moon Name]
+    Iqaon Nu 28
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 29
     diam: 0.738
     grav: 0.027
 
-    [Moon Name]
+    Iqaon Nu 30
     diam: 1.006
     grav: 0.034
 
-    [Moon Name]
+    Iqaon Nu 31
     diam: 0.213
     grav: 0.055
 
@@ -1759,60 +1693,60 @@ outer planets:
     diam: 0.179
     grav: 0.823
 
-    [Moon Name]
+    Iqaon Nu 33
     diam: 0.521
     grav: 0.072
 
-    [Moon Name]
+    Iqaon Nu 34
     diam: 0.100
     grav: 0.912
 
-    [Moon Name]
+    Iqaon Nu 35
     diam: 0.465
     grav: 0.012
 
-    [Moon Name]
+    Iqaon Nu 36
     diam: 0.379
     grav: 0.017
 
-    [Moon Name]
+    Iqaon Nu 37
     diam: 0.833
     grav: 0.004
 
-    [Moon Name]
+    Iqaon Nu 38
     diam: 0.717
     grav: 0.005
 
-    [Moon Name]
+    Iqaon Nu 39
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 40
     diam: 0.100
     grav: 6.219
 
-    [Moon Name]
+    Iqaon Nu 41
     diam: 0.450
     grav: 0.159
 
-    [Moon Name]
+    Iqaon Nu 42
     HABITABLE
     diam: 0.100
     grav: 2.799
 
-    [Moon Name]
+    Iqaon Nu 43
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 44
     diam: 0.611
     grav: 0.007
 
-    [Moon Name]
+    Iqaon Nu 45
     diam: 0.477
     grav: 0.029
 
-    [Moon Name]
+    Iqaon Nu 46
     diam: 0.100
     grav: 0.250
 
@@ -1821,300 +1755,300 @@ outer planets:
     diam: 0.100
     grav: 1.088
 
-    [Moon Name]
+    Iqaon Nu 48
     diam: 0.100
     grav: 7.687
 
-    [Moon Name]
+    Iqaon Nu 49
     diam: 0.505
     grav: 0.097
 
-    [Moon Name]
+    Iqaon Nu 50
     diam: 0.538
     grav: 0.043
 
-    [Moon Name]
+    Iqaon Nu 51
     diam: 0.146
     grav: 1.411
 
-    [Moon Name]
+    Iqaon Nu 52
     diam: 0.681
     grav: 0.044
 
-    [Moon Name]
+    Iqaon Nu 53
     diam: 0.100
     grav: 11.479
 
-    [Moon Name]
+    Iqaon Nu 54
     diam: 0.428
     grav: 0.214
 
-    [Moon Name]
+    Iqaon Nu 55
     diam: 0.472
     grav: 0.088
 
-    [Moon Name]
+    Iqaon Nu 56
     diam: 0.499
     grav: 0.276
 
-    [Moon Name]
+    Iqaon Nu 57
     diam: 0.363
     grav: 0.019
 
-    [Moon Name]
+    Iqaon Nu 58
     diam: 0.100
     grav: 10.846
 
-    [Moon Name]
+    Iqaon Nu 59
     HABITABLE
     diam: 0.100
     grav: 2.654
 
-    [Moon Name]
+    Iqaon Nu 60
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Nu 61
     diam: 0.100
     grav: 6.136
 
 
-  [Planet Name]
+  Iqaon Xi 0
   diam: 4.509
   grav: 3.992
   moons:
-    [Moon Name]
+    Iqaon Xi 1
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 2
     diam: 0.279
     grav: 0.032
 
-    [Moon Name]
+    Iqaon Xi 3
     diam: 0.138
     grav: 2.018
 
-    [Moon Name]
+    Iqaon Xi 4
     diam: 0.397
     grav: 0.380
 
-    [Moon Name]
+    Iqaon Xi 5
     diam: 0.100
     grav: 0.670
 
-    [Moon Name]
+    Iqaon Xi 6
     diam: 0.435
     grav: 0.013
 
-    [Moon Name]
+    Iqaon Xi 7
     diam: 0.624
     grav: 0.187
 
-    [Moon Name]
+    Iqaon Xi 8
     diam: 0.100
     grav: 2.007
 
-    [Moon Name]
+    Iqaon Xi 9
     HABITABLE
     diam: 0.100
     grav: 1.553
 
-    [Moon Name]
+    Iqaon Xi 10
     diam: 0.854
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Xi 11
     diam: 0.697
     grav: 0.053
 
-    [Moon Name]
+    Iqaon Xi 12
     diam: 0.657
     grav: 0.102
 
-    [Moon Name]
+    Iqaon Xi 13
     diam: 0.114
     grav: 0.193
 
-    [Moon Name]
+    Iqaon Xi 14
     diam: 0.928
     grav: 0.047
 
-    [Moon Name]
+    Iqaon Xi 15
     HABITABLE
     diam: 0.383
     grav: 0.473
 
-    [Moon Name]
+    Iqaon Xi 16
     diam: 0.376
     grav: 0.018
 
-    [Moon Name]
+    Iqaon Xi 17
     diam: 0.904
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Xi 18
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 19
     diam: 0.532
     grav: 0.034
 
-    [Moon Name]
+    Iqaon Xi 20
     diam: 0.100
     grav: 3.359
 
-    [Moon Name]
+    Iqaon Xi 21
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 22
     diam: 1.066
     grav: 0.060
 
-    [Moon Name]
+    Iqaon Xi 23
     diam: 0.100
     grav: 3.866
 
-    [Moon Name]
+    Iqaon Xi 24
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 25
     diam: 0.100
     grav: 3.084
 
-    [Moon Name]
+    Iqaon Xi 26
     diam: 0.407
     grav: 0.412
 
-    [Moon Name]
+    Iqaon Xi 27
     diam: 0.336
     grav: 0.714
 
-    [Moon Name]
+    Iqaon Xi 28
     diam: 0.172
     grav: 0.084
 
-    [Moon Name]
+    Iqaon Xi 29
     diam: 0.796
     grav: 0.015
 
-    [Moon Name]
+    Iqaon Xi 30
     diam: 0.407
     grav: 0.015
 
-    [Moon Name]
+    Iqaon Xi 31
     diam: 0.187
     grav: 0.071
 
-    [Moon Name]
+    Iqaon Xi 32
     diam: 0.729
     grav: 0.005
 
-    [Moon Name]
+    Iqaon Xi 33
     diam: 0.330
     grav: 0.023
 
-    [Moon Name]
+    Iqaon Xi 34
     diam: 0.640
     grav: 0.204
 
-    [Moon Name]
+    Iqaon Xi 35
     diam: 0.100
     grav: 1.413
 
-    [Moon Name]
+    Iqaon Xi 36
     diam: 0.358
     grav: 0.116
 
-    [Moon Name]
+    Iqaon Xi 37
     diam: 0.100
     grav: 2.713
 
-    [Moon Name]
+    Iqaon Xi 38
     diam: 0.100
     grav: 1.388
 
-    [Moon Name]
+    Iqaon Xi 39
     diam: 0.660
     grav: 0.038
 
-    [Moon Name]
+    Iqaon Xi 40
     diam: 0.874
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Xi 41
     HABITABLE
     diam: 0.261
     grav: 1.195
 
-    [Moon Name]
+    Iqaon Xi 42
     diam: 0.100
     grav: 2.145
 
-    [Moon Name]
+    Iqaon Xi 43
     diam: 0.100
     grav: 5.813
 
-    [Moon Name]
+    Iqaon Xi 44
     diam: 0.300
     grav: 1.142
 
-    [Moon Name]
+    Iqaon Xi 45
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 46
     diam: 0.226
     grav: 0.174
 
-    [Moon Name]
+    Iqaon Xi 47
     diam: 0.168
     grav: 0.088
 
-    [Moon Name]
+    Iqaon Xi 48
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 49
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Iqaon Xi 50
     diam: 0.857
     grav: 0.010
 
-    [Moon Name]
+    Iqaon Xi 51
     diam: 0.100
     grav: 8.377
 
-    [Moon Name]
+    Iqaon Xi 52
     diam: 0.352
     grav: 0.020
 
-    [Moon Name]
+    Iqaon Xi 53
     diam: 0.308
     grav: 0.026
 
-    [Moon Name]
+    Iqaon Xi 54
     diam: 0.187
     grav: 0.072
 
-    [Moon Name]
+    Iqaon Xi 55
     diam: 0.503
     grav: 0.112
 
-    [Moon Name]
+    Iqaon Xi 56
     diam: 0.639
     grav: 0.006
 
-    [Moon Name]
+    Iqaon Xi 57
     diam: 0.985
     grav: 0.003
 
-    [Moon Name]
+    Iqaon Xi 58
     diam: 0.100
     grav: 0.250
 

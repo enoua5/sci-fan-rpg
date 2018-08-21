@@ -5,141 +5,141 @@ star mass: 1.289
 star grav: 1.816
 
 inner planets:
-  [Planet Name]
+  Crein Alpha 0
   diam: 0.488
   grav: 2.311
   moons:
-    [Moon Name]
+    Crein Alpha 1
     diam: 0.317
     grav: 0.090
 
 
-  [Planet Name]
+  Crein Beta 0
   diam: 0.308
   grav: 5.126
   moons:
-    [Moon Name]
+    Crein Beta 1
     diam: 0.100
     grav: 0.250
 
 
 outer planets:
-  [Planet Name]
+  Crein Gamma 0
   diam: 6.975
   grav: 0.680
   moons:
-    [Moon Name]
+    Crein Gamma 1
     HABITABLE
     diam: 0.257
     grav: 0.296
 
-    [Moon Name]
+    Crein Gamma 2
     diam: 0.689
     grav: 0.005
 
-    [Moon Name]
+    Crein Gamma 3
     diam: 0.252
     grav: 0.039
 
-    [Moon Name]
+    Crein Gamma 4
     HABITABLE
     diam: 0.100
     grav: 1.116
 
-    [Moon Name]
+    Crein Gamma 5
     diam: 0.436
     grav: 0.096
 
-    [Moon Name]
+    Crein Gamma 6
     diam: 0.100
     grav: 4.982
 
-    [Moon Name]
+    Crein Gamma 7
     diam: 0.684
     grav: 0.005
 
-    [Moon Name]
+    Crein Gamma 8
     diam: 0.509
     grav: 0.201
 
-    [Moon Name]
+    Crein Gamma 9
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Gamma 10
     diam: 0.831
     grav: 0.034
 
-    [Moon Name]
+    Crein Gamma 11
     diam: 0.319
     grav: 0.461
 
-    [Moon Name]
+    Crein Gamma 12
     diam: 0.509
     grav: 0.010
 
-    [Moon Name]
+    Crein Gamma 13
     diam: 0.100
     grav: 1.444
 
-    [Moon Name]
+    Crein Gamma 14
     diam: 0.762
     grav: 0.004
 
-    [Moon Name]
+    Crein Gamma 15
     diam: 0.782
     grav: 0.027
 
-    [Moon Name]
+    Crein Gamma 16
     diam: 0.657
     grav: 0.034
 
-    [Moon Name]
+    Crein Gamma 17
     diam: 0.133
     grav: 2.332
 
-    [Moon Name]
+    Crein Gamma 18
     diam: 0.220
     grav: 0.052
 
-    [Moon Name]
+    Crein Gamma 19
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Gamma 20
     diam: 0.458
     grav: 0.610
 
-    [Moon Name]
+    Crein Gamma 21
     HABITABLE
     diam: 0.100
     grav: 2.397
 
-    [Moon Name]
+    Crein Gamma 22
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Gamma 23
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Gamma 24
     diam: 0.653
     grav: 0.006
 
-    [Moon Name]
+    Crein Gamma 25
     diam: 0.145
     grav: 2.174
 
-    [Moon Name]
+    Crein Gamma 26
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Gamma 27
     diam: 0.100
     grav: 5.400
 
-    [Moon Name]
+    Crein Gamma 28
     diam: 0.100
     grav: 1.099
 
@@ -149,11 +149,11 @@ outer planets:
   diam: 5.482
   grav: 0.958
   moons:
-    [Moon Name]
+    Crein Delta 1
     diam: 0.100
     grav: 10.254
 
-    [Moon Name]
+    Crein Delta 2
     diam: 0.555
     grav: 0.072
 
@@ -162,75 +162,75 @@ outer planets:
     diam: 0.100
     grav: 2.260
 
-    [Moon Name]
+    Crein Delta 4
     diam: 0.392
     grav: 0.578
 
-    [Moon Name]
+    Crein Delta 5
     diam: 0.496
     grav: 0.318
 
-    [Moon Name]
+    Crein Delta 6
     diam: 0.712
     grav: 0.042
 
-    [Moon Name]
+    Crein Delta 7
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Delta 8
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Delta 9
     diam: 0.897
     grav: 0.061
 
-    [Moon Name]
+    Crein Delta 10
     diam: 0.925
     grav: 0.010
 
-    [Moon Name]
+    Crein Delta 11
     diam: 0.643
     grav: 0.006
 
-    [Moon Name]
+    Crein Delta 12
     diam: 0.100
     grav: 0.407
 
-    [Moon Name]
+    Crein Delta 13
     diam: 0.100
     grav: 1.668
 
-    [Moon Name]
+    Crein Delta 14
     diam: 0.723
     grav: 0.005
 
-    [Moon Name]
+    Crein Delta 15
     diam: 0.487
     grav: 0.151
 
-    [Moon Name]
+    Crein Delta 16
     diam: 0.412
     grav: 0.015
 
-    [Moon Name]
+    Crein Delta 17
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Delta 18
     diam: 0.721
     grav: 0.005
 
-    [Moon Name]
+    Crein Delta 19
     diam: 0.100
     grav: 3.135
 
-    [Moon Name]
+    Crein Delta 20
     diam: 0.142
     grav: 0.124
 
-    [Moon Name]
+    Crein Delta 21
     diam: 0.439
     grav: 0.013
 
@@ -240,252 +240,252 @@ outer planets:
   diam: 5.861
   grav: 2.063
   moons:
-    [Moon Name]
+    Crein Epsilon 1
     diam: 0.629
     grav: 0.006
 
-    [Moon Name]
+    Crein Epsilon 2
     diam: 0.100
     grav: 4.025
 
-    [Moon Name]
+    Crein Epsilon 3
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 4
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 5
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 6
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 7
     diam: 0.530
     grav: 0.056
 
-    [Moon Name]
+    Crein Epsilon 8
     diam: 0.128
     grav: 0.153
 
-    [Moon Name]
+    Crein Epsilon 9
     diam: 0.764
     grav: 0.004
 
-    [Moon Name]
+    Crein Epsilon 10
     diam: 0.188
     grav: 0.070
 
-    [Moon Name]
+    Crein Epsilon 11
     diam: 0.852
     grav: 0.006
 
-    [Moon Name]
+    Crein Epsilon 12
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 13
     diam: 0.100
     grav: 1.408
 
-    [Moon Name]
+    Crein Epsilon 14
     diam: 0.100
     grav: 2.050
 
-    [Moon Name]
+    Crein Epsilon 15
     diam: 0.933
     grav: 0.003
 
-    [Moon Name]
+    Crein Epsilon 16
     diam: 0.501
     grav: 0.010
 
-    [Moon Name]
+    Crein Epsilon 17
     diam: 0.538
     grav: 0.009
 
-    [Moon Name]
+    Crein Epsilon 18
     diam: 0.761
     grav: 0.004
 
-    [Moon Name]
+    Crein Epsilon 19
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 20
     diam: 1.019
     grav: 0.002
 
-    [Moon Name]
+    Crein Epsilon 21
     diam: 0.432
     grav: 0.401
 
-    [Moon Name]
+    Crein Epsilon 22
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 23
     diam: 0.830
     grav: 0.004
 
-    [Moon Name]
+    Crein Epsilon 24
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 25
     diam: 0.294
     grav: 0.811
 
-    [Moon Name]
+    Crein Epsilon 26
     diam: 0.100
     grav: 2.664
 
-    [Moon Name]
+    Crein Epsilon 27
     diam: 0.972
     grav: 0.003
 
-    [Moon Name]
+    Crein Epsilon 28
     diam: 0.651
     grav: 0.006
 
-    [Moon Name]
+    Crein Epsilon 29
     diam: 0.537
     grav: 0.011
 
-    [Moon Name]
+    Crein Epsilon 30
     diam: 0.208
     grav: 1.411
 
-    [Moon Name]
+    Crein Epsilon 31
     diam: 0.596
     grav: 0.007
 
-    [Moon Name]
+    Crein Epsilon 32
     diam: 0.166
     grav: 0.091
 
-    [Moon Name]
+    Crein Epsilon 33
     diam: 0.387
     grav: 0.017
 
-    [Moon Name]
+    Crein Epsilon 34
     diam: 0.455
     grav: 0.012
 
-    [Moon Name]
+    Crein Epsilon 35
     diam: 0.116
     grav: 0.185
 
-    [Moon Name]
+    Crein Epsilon 36
     diam: 0.764
     grav: 0.108
 
-    [Moon Name]
+    Crein Epsilon 37
     diam: 0.100
     grav: 9.068
 
-    [Moon Name]
+    Crein Epsilon 38
     diam: 0.909
     grav: 0.070
 
-    [Moon Name]
+    Crein Epsilon 39
     diam: 0.716
     grav: 0.005
 
-    [Moon Name]
+    Crein Epsilon 40
     diam: 0.501
     grav: 0.333
 
-    [Moon Name]
+    Crein Epsilon 41
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 42
     diam: 0.270
     grav: 0.409
-
+    
     Bin
     HABITABLE (Oshil, med)
     diam: 0.100
     grav: 1.272
 
-    [Moon Name]
+    Crein Epsilon 44
     diam: 0.802
     grav: 0.004
 
-    [Moon Name]
+    Crein Epsilon 45
     diam: 0.455
     grav: 0.012
 
-    [Moon Name]
+    Crein Epsilon 46
     diam: 0.305
     grav: 0.027
 
-    [Moon Name]
+    Crein Epsilon 47
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 48
     diam: 0.737
     grav: 0.100
 
-    [Moon Name]
+    Crein Epsilon 49
     diam: 1.115
     grav: 0.002
 
-    [Moon Name]
+    Crein Epsilon 50
     diam: 0.100
     grav: 8.249
 
-    [Moon Name]
+    Crein Epsilon 51
     diam: 0.211
     grav: 0.056
 
-    [Moon Name]
+    Crein Epsilon 52
     diam: 0.100
     grav: 5.616
 
-    [Moon Name]
+    Crein Epsilon 53
     diam: 0.147
     grav: 1.800
 
-    [Moon Name]
+    Crein Epsilon 54
     diam: 0.581
     grav: 0.007
 
-    [Moon Name]
+    Crein Epsilon 55
     diam: 0.176
     grav: 0.732
 
-    [Moon Name]
+    Crein Epsilon 56
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 57
     diam: 0.401
     grav: 0.084
 
-    [Moon Name]
+    Crein Epsilon 58
     diam: 1.146
     grav: 0.026
 
-    [Moon Name]
+    Crein Epsilon 59
     diam: 0.110
     grav: 3.437
 
-    [Moon Name]
+    Crein Epsilon 60
     diam: 0.100
     grav: 7.783
 
-    [Moon Name]
+    Crein Epsilon 61
     diam: 0.311
     grav: 0.158
 
-    [Moon Name]
+    Crein Epsilon 62
     diam: 1.078
     grav: 0.002
 
@@ -494,432 +494,432 @@ outer planets:
     diam: 0.100
     grav: 2.404
 
-    [Moon Name]
+    Crein Epsilon 64
     diam: 1.062
     grav: 0.061
 
-    [Moon Name]
+    Crein Epsilon 65
     diam: 0.307
     grav: 0.026
 
-    [Moon Name]
+    Crein Epsilon 66
     diam: 0.100
     grav: 6.085
 
-    [Moon Name]
+    Crein Epsilon 67
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 68
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 69
     diam: 0.612
     grav: 0.007
 
-    [Moon Name]
+    Crein Epsilon 70
     diam: 0.695
     grav: 0.076
 
-    [Moon Name]
+    Crein Epsilon 71
     diam: 0.100
     grav: 11.600
 
-    [Moon Name]
+    Crein Epsilon 72
     diam: 0.161
     grav: 0.097
 
-    [Moon Name]
+    Crein Epsilon 73
     diam: 0.939
     grav: 0.009
 
-    [Moon Name]
+    Crein Epsilon 74
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 75
     diam: 0.100
     grav: 3.124
 
-    [Moon Name]
+    Crein Epsilon 76
     diam: 0.871
     grav: 0.003
 
-    [Moon Name]
+    Crein Epsilon 77
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 78
     diam: 0.751
     grav: 0.094
 
-    [Moon Name]
+    Crein Epsilon 79
     diam: 0.100
     grav: 5.168
 
-    [Moon Name]
+    Crein Epsilon 80
     diam: 0.322
     grav: 0.024
 
-    [Moon Name]
+    Crein Epsilon 81
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 82
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 83
     diam: 0.129
     grav: 5.710
 
-    [Moon Name]
+    Crein Epsilon 84
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 85
     diam: 1.292
     grav: 0.001
 
-    [Moon Name]
+    Crein Epsilon 86
     diam: 0.253
     grav: 0.933
 
-    [Moon Name]
+    Crein Epsilon 87
     diam: 0.516
     grav: 0.009
 
-    [Moon Name]
+    Crein Epsilon 88
     diam: 0.100
     grav: 1.628
 
-    [Moon Name]
+    Crein Epsilon 89
     diam: 0.240
     grav: 0.793
 
-    [Moon Name]
+    Crein Epsilon 90
     diam: 0.317
     grav: 0.095
 
-    [Moon Name]
+    Crein Epsilon 91
     diam: 0.372
     grav: 0.333
 
-    [Moon Name]
+    Crein Epsilon 92
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 93
     diam: 0.286
     grav: 0.100
 
-    [Moon Name]
+    Crein Epsilon 94
     diam: 0.509
     grav: 0.040
 
-    [Moon Name]
+    Crein Epsilon 95
     diam: 0.167
     grav: 1.268
 
-    [Moon Name]
+    Crein Epsilon 96
     diam: 0.383
     grav: 0.017
 
-    [Moon Name]
+    Crein Epsilon 97
     diam: 1.028
     grav: 0.031
 
-    [Moon Name]
+    Crein Epsilon 98
     diam: 0.540
     grav: 0.009
 
-    [Moon Name]
+    Crein Epsilon 99
     diam: 0.379
     grav: 0.017
 
-    [Moon Name]
+    Crein Epsilon 100
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 101
     diam: 0.562
     grav: 0.008
 
-    [Moon Name]
+    Crein Epsilon 102
     diam: 0.100
     grav: 0.746
 
-    [Moon Name]
+    Crein Epsilon 103
     diam: 0.313
     grav: 0.339
 
-    [Moon Name]
+    Crein Epsilon 104
     diam: 0.951
     grav: 0.022
 
-    [Moon Name]
+    Crein Epsilon 105
     diam: 0.100
     grav: 5.300
 
-    [Moon Name]
+    Crein Epsilon 106
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 107
     diam: 1.451
     grav: 0.001
 
-    [Moon Name]
+    Crein Epsilon 108
     diam: 0.478
     grav: 0.255
 
-    [Moon Name]
+    Crein Epsilon 109
     diam: 0.100
     grav: 4.133
 
-    [Moon Name]
+    Crein Epsilon 110
     diam: 0.645
     grav: 0.183
 
-    [Moon Name]
+    Crein Epsilon 111
     diam: 0.100
     grav: 4.121
 
-    [Moon Name]
+    Crein Epsilon 112
     diam: 0.242
     grav: 0.365
 
-    [Moon Name]
+    Crein Epsilon 113
     diam: 0.454
     grav: 0.157
 
-    [Moon Name]
+    Crein Epsilon 114
     diam: 0.229
     grav: 0.048
 
-    [Moon Name]
+    Crein Epsilon 115
     diam: 0.927
     grav: 0.062
 
-    [Moon Name]
+    Crein Epsilon 116
     diam: 0.708
     grav: 0.005
 
-    [Moon Name]
+    Crein Epsilon 117
     diam: 0.100
     grav: 0.651
 
-    [Moon Name]
+    Crein Epsilon 118
     diam: 1.568
     grav: 0.001
 
-    [Moon Name]
+    Crein Epsilon 119
     diam: 0.389
     grav: 0.123
 
-    [Moon Name]
+    Crein Epsilon 120
     diam: 0.908
     grav: 0.003
 
-    [Moon Name]
+    Crein Epsilon 121
     diam: 0.162
     grav: 0.096
 
-    [Moon Name]
+    Crein Epsilon 122
     diam: 0.100
     grav: 2.262
 
-    [Moon Name]
+    Crein Epsilon 123
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 124
     diam: 0.186
     grav: 1.191
 
-    [Moon Name]
+    Crein Epsilon 125
     diam: 0.220
     grav: 0.379
 
-    [Moon Name]
+    Crein Epsilon 126
     diam: 0.100
     grav: 0.270
 
-    [Moon Name]
+    Crein Epsilon 127
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 128
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 129
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 130
     diam: 0.470
     grav: 0.011
 
-    [Moon Name]
+    Crein Epsilon 131
     diam: 0.299
     grav: 0.225
 
-    [Moon Name]
+    Crein Epsilon 132
     diam: 0.853
     grav: 0.107
 
-    [Moon Name]
+    Crein Epsilon 133
     diam: 0.100
     grav: 3.162
 
-    [Moon Name]
+    Crein Epsilon 134
     diam: 0.608
     grav: 0.274
 
-    [Moon Name]
+    Crein Epsilon 135
     diam: 0.318
     grav: 0.898
 
-    [Moon Name]
+    Crein Epsilon 136
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 137
     diam: 0.479
     grav: 0.011
 
-    [Moon Name]
+    Crein Epsilon 138
     diam: 0.711
     grav: 0.005
 
-    [Moon Name]
+    Crein Epsilon 139
     diam: 0.232
     grav: 0.047
 
-    [Moon Name]
+    Crein Epsilon 140
     diam: 0.100
     grav: 9.820
 
-    [Moon Name]
+    Crein Epsilon 141
     diam: 0.280
     grav: 0.032
 
-    [Moon Name]
+    Crein Epsilon 142
     diam: 0.555
     grav: 0.040
 
-    [Moon Name]
+    Crein Epsilon 143
     diam: 0.414
     grav: 0.108
 
-    [Moon Name]
+    Crein Epsilon 144
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Epsilon 145
     diam: 0.341
     grav: 0.505
 
-    [Moon Name]
+    Crein Epsilon 146
     diam: 0.191
     grav: 1.175
 
-    [Moon Name]
+    Crein Epsilon 147
     diam: 0.953
     grav: 0.041
 
-    [Moon Name]
+    Crein Epsilon 148
     diam: 0.437
     grav: 0.013
 
-    [Moon Name]
+    Crein Epsilon 149
     diam: 0.100
     grav: 1.280
 
-    [Moon Name]
+    Crein Epsilon 150
     diam: 0.100
     grav: 6.512
 
-    [Moon Name]
+    Crein Epsilon 151
     diam: 0.536
     grav: 0.065
 
-    [Moon Name]
+    Crein Epsilon 152
     diam: 0.423
     grav: 0.014
 
-    [Moon Name]
+    Crein Epsilon 153
     diam: 0.324
     grav: 0.024
 
-    [Moon Name]
+    Crein Epsilon 154
     diam: 0.100
     grav: 10.482
 
-    [Moon Name]
+    Crein Epsilon 155
     diam: 0.300
     grav: 1.192
 
-    [Moon Name]
+    Crein Epsilon 156
     diam: 0.502
     grav: 0.010
 
-    [Moon Name]
+    Crein Epsilon 157
     diam: 0.100
     grav: 4.765
 
-    [Moon Name]
+    Crein Epsilon 158
     diam: 0.558
     grav: 0.008
 
 
-  [Planet Name]
+  Crein Zeta 0
   diam: 1.621
   grav: 5.343
   moons:
-    [Moon Name]
+    Crein Zeta 1
     diam: 0.633
     grav: 0.006
 
-    [Moon Name]
+    Crein Zeta 2
     diam: 0.688
     grav: 0.130
 
-    [Moon Name]
+    Crein Zeta 3
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Crein Zeta 4
     diam: 0.712
     grav: 0.005
 
-    [Moon Name]
+    Crein Zeta 5
     diam: 0.513
     grav: 0.009
 
-    [Moon Name]
+    Crein Zeta 6
     diam: 0.100
     grav: 7.039
 
-    [Moon Name]
+    Crein Zeta 7
     diam: 0.414
     grav: 0.015
 
-    [Moon Name]
+    Crein Zeta 8
     diam: 0.400
     grav: 0.154
 
-    [Moon Name]
+    Crein Zeta 9
     diam: 0.709
     grav: 0.005
 
-    [Moon Name]
+    Crein Zeta 10
     diam: 0.168
     grav: 0.089
 
-    [Moon Name]
+    Crein Zeta 11
     diam: 0.400
     grav: 0.016
 

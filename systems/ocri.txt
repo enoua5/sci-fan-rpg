@@ -5,29 +5,29 @@ star mass: 2.124
 star grav: 2.946
 
 inner planets:
-  [Planet Name]
+  Ocri Alpha 0
   diam: 0.905
   grav: 0.941
   moons:
-    [Moon Name]
+    Ocri Alpha 1
     diam: 0.953
     grav: 0.003
 
 
-  [Planet Name]
+  Ocri Beta 0
   diam: 0.338
   grav: 1.373
   moons:
-    [Moon Name]
+    Ocri Beta 1
     diam: 0.477
     grav: 0.186
 
 
-  [Planet Name]
+  Ocri Gamma 0
   diam: 0.730
   grav: 1.527
   moons:
-    [Moon Name]
+    Ocri Gamma 1
     diam: 0.209
     grav: 0.057
 
@@ -37,23 +37,23 @@ outer planets:
   diam: 2.190
   grav: 6.515
   moons:
-    [Moon Name]
+    Ocri Delta 1
     diam: 0.100
     grav: 1.981
 
-    [Moon Name]
+    Ocri Delta 2
     diam: 0.380
     grav: 0.017
 
-    [Moon Name]
+    Ocri Delta 3
     diam: 0.231
     grav: 0.047
 
-    [Moon Name]
+    Ocri Delta 4
     diam: 0.113
     grav: 1.711
 
-    [Moon Name]
+    Ocri Delta 5
     diam: 0.350
     grav: 0.510
 
@@ -62,154 +62,154 @@ outer planets:
     diam: 0.100
     grav: 1.509
 
-    [Moon Name]
+    Ocri Delta 7
     diam: 0.100
     grav: 8.692
 
-    [Moon Name]
+    Ocri Delta 8
     diam: 0.100
     grav: 2.346
 
-    [Moon Name]
+    Ocri Delta 9
     diam: 0.118
     grav: 0.180
 
-    [Moon Name]
+    Ocri Delta 10
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Delta 11
     diam: 0.100
     grav: 6.952
 
-    [Moon Name]
+    Ocri Delta 12
     diam: 0.351
     grav: 0.020
 
-    [Moon Name]
+    Ocri Delta 13
     diam: 0.668
     grav: 0.006
 
-    [Moon Name]
+    Ocri Delta 14
     diam: 0.682
     grav: 0.005
 
 
-  [Planet Name]
+  Ocri Epsilon 0
   diam: 2.185
   grav: 8.429
   moons:
-    [Moon Name]
+    Ocri Epsilon 1
     diam: 1.209
     grav: 0.038
 
-    [Moon Name]
+    Ocri Epsilon 2
     diam: 0.769
     grav: 0.213
 
-    [Moon Name]
+    Ocri Epsilon 3
     diam: 0.131
     grav: 2.802
 
-    [Moon Name]
+    Ocri Epsilon 4
     diam: 0.100
     grav: 6.130
 
-    [Moon Name]
+    Ocri Epsilon 5
     diam: 0.216
     grav: 0.054
 
-    [Moon Name]
+    Ocri Epsilon 6
     diam: 0.247
     grav: 0.282
 
-    [Moon Name]
+    Ocri Epsilon 7
     diam: 0.100
     grav: 9.138
 
-    [Moon Name]
+    Ocri Epsilon 8
     diam: 0.851
     grav: 0.003
 
-    [Moon Name]
+    Ocri Epsilon 9
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Epsilon 10
     diam: 0.165
     grav: 1.170
 
-    [Moon Name]
+    Ocri Epsilon 11
     diam: 0.794
     grav: 0.049
 
-    [Moon Name]
+    Ocri Epsilon 12
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Epsilon 13
     diam: 0.348
     grav: 0.378
 
-    [Moon Name]
+    Ocri Epsilon 14
     diam: 0.100
     grav: 8.035
 
-    [Moon Name]
+    Ocri Epsilon 15
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Epsilon 16
     diam: 0.312
     grav: 0.026
 
-    [Moon Name]
+    Ocri Epsilon 17
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Epsilon 18
     HABITABLE
     diam: 0.175
     grav: 1.749
 
-    [Moon Name]
+    Ocri Epsilon 19
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Epsilon 20
     diam: 0.233
     grav: 0.215
 
-    [Moon Name]
+    Ocri Epsilon 21
     diam: 0.100
     grav: 1.067
 
-    [Moon Name]
+    Ocri Epsilon 22
     diam: 0.272
     grav: 0.572
 
-    [Moon Name]
+    Ocri Epsilon 23
     diam: 0.100
     grav: 0.305
 
-    [Moon Name]
+    Ocri Epsilon 24
     diam: 0.434
     grav: 0.013
 
-    [Moon Name]
+    Ocri Epsilon 25
     diam: 0.100
     grav: 0.250
 
-    [Moon Name]
+    Ocri Epsilon 26
     HABITABLE
     diam: 0.262
     grav: 1.905
 
-    [Moon Name]
+    Ocri Epsilon 27
     diam: 0.100
     grav: 5.516
 
-    [Moon Name]
+    Ocri Epsilon 28
     diam: 0.350
     grav: 0.020
 
