@@ -71,7 +71,7 @@ outer planets:
     grav: 2.158
 
     Cal
-    HABITABLE (Deilon, low)
+    HABITABLE (Deilon, med)
     diam: 0.174
     grav: 1.485
 
@@ -282,7 +282,7 @@ outer planets:
     grav: 0.012
 
     Taeshoon
-    HABITABLE (Deilon, low)
+    HABITABLE (Deilon, med)
     diam: 0.151
     grav: 1.395
 
