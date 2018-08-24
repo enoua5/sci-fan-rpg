@@ -242,7 +242,7 @@ outer planets:
     grav: 0.250
 
     Holon
-    HABITABLE (Alatra, high)
+    HABITABLE (Alastra, high)
     diam: 0.100
     grav: 1.408
 
