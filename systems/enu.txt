@@ -6,6 +6,7 @@ star grav: 1.528
 
 inner planets:
   Enu Alpha 0
+  Water planet
   diam: 0.755
   grav: 1.058
   moons:

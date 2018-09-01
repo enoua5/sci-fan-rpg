@@ -58,7 +58,7 @@ outer planets:
     grav: 0.510
 
     Chi
-    HABITABLE (Peimein, sml)
+    HABITABLE (Peimein, low)
     diam: 0.100
     grav: 1.509
 
@@ -201,7 +201,7 @@ outer planets:
     grav: 0.250
 
     Ocri Epsilon 26
-    HABITABLE
+    HABITABLE (pirates - Black Diamond Charade)
     diam: 0.262
     grav: 1.905
 
